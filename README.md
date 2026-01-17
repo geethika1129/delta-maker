@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/geethika1129/delta-maker/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/geethika1129/delta-maker/tree/master/0189-rotate-array) |
 ## Math
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/geethika1129/delta-maker/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
