@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/geethika1129/delta-maker/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/geethika1129/delta-maker/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/geethika1129/delta-maker/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -44,8 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/geethika1129/delta-maker/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
