@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/geethika1129/delta-maker/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -30,6 +32,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
