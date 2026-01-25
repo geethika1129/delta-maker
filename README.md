@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/geethika1129/delta-maker/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/geethika1129/delta-maker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/geethika1129/delta-maker/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/geethika1129/delta-maker/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/geethika1129/delta-maker/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/geethika1129/delta-maker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/geethika1129/delta-maker/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/geethika1129/delta-maker/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/geethika1129/delta-maker/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/geethika1129/delta-maker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/geethika1129/delta-maker/tree/master/0974-subarray-sums-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/geethika1129/delta-maker/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
