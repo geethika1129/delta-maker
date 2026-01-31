@@ -9,14 +9,26 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        prev=None
-        curr=head
-        while curr:
-            temp=curr.next
-            curr.next=prev
-            prev=curr
-            curr=temp
-        return prev
+        #recursive
+        
+        if not head or not head.next:
+            return head
+        new_head=self.reverseList(head.next)
+        
+        head.next.next=head
+        head.next=None
+
+        return new_head
+
+        #iterative
+        # prev=None
+        # curr=head
+        # while curr:
+        #     temp=curr.next
+        #     curr.next=prev
+        #     prev=curr
+        #     curr=temp
+        # return prev
 
     
         
