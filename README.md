@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/geethika1129/delta-maker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
