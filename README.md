@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/geethika1129/delta-maker/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/geethika1129/delta-maker/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/geethika1129/delta-maker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/geethika1129/delta-maker/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/geethika1129/delta-maker/tree/master/0525-contiguous-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/geethika1129/delta-maker/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/geethika1129/delta-maker/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/geethika1129/delta-maker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/geethika1129/delta-maker/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
