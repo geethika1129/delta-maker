@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/geethika1129/delta-maker/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/geethika1129/delta-maker/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geethika1129/delta-maker/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/geethika1129/delta-maker/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/geethika1129/delta-maker/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/geethika1129/delta-maker/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/geethika1129/delta-maker/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/geethika1129/delta-maker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/geethika1129/delta-maker/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/geethika1129/delta-maker/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/geethika1129/delta-maker/tree/master/0387-first-unique-character-in-a-string) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/geethika1129/delta-maker/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/geethika1129/delta-maker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/geethika1129/delta-maker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/geethika1129/delta-maker/tree/master/0217-contains-duplicate) |
