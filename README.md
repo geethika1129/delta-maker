@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/geethika1129/delta-maker/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/geethika1129/delta-maker/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/geethika1129/delta-maker/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/geethika1129/delta-maker/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/geethika1129/delta-maker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/geethika1129/delta-maker/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/geethika1129/delta-maker/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/geethika1129/delta-maker/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
